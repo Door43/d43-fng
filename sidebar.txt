@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fng:home|Door43 (fng)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fng|d43-fng repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fng/archive/master.zip|d43-fng.zip]]
+
+**Recent Changes**
+{{changes>ns = fng}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fng|Ethnologue data]]
+
